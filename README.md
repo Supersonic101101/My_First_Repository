@@ -10,9 +10,4 @@ for (int i = 0; i < 10; i++){
 }
 ```
 
-this is a list:
-+ list item 1
-- list item 2
-
-1. list item 1
-2. list item 2
+# Creeper.. Oh man!!
